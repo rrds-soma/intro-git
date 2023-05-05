@@ -1,2 +1,4 @@
 Hello world!
 edit for first commit 
+ git add
+ git commit
